@@ -33,3 +33,4 @@ Para adicionar um recurso, copie [templates/recurso.md](templates/recurso.md).
 | Recurso | Categoria | Status | Cadastro |
 | --- | --- | --- | --- |
 | [Entire](recursos/entire.md) | Desenvolvimento / Plataforma de código | lista-de-espera | 2026-11-01 |
+| [Nuvemshop](recursos/nuvemshop.md) | E-commerce / Plataforma de loja virtual | ativo | 2026-11-01 |
